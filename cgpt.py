@@ -127,8 +127,8 @@ import streamlit as st
 import requests
 from urllib.parse import urlencode
 
-CLIENT_ID = "948659542381-8ds6lfnpoq4q669hqj1fm8feqb0ovvgi.apps.googleusercontent.com"
-CLIENT_SECRET = "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"  
+CLIENT_ID = "948659542381-8ds6lfnpoq4q669hqj1fm8feqb0ovvgi0988909875.apps.googleusercontent.com"
+CLIENT_SECRET = "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qwertyuiop"  
 REDIRECT_URI = "http://localhost:8501" 
 
 SCOPE = "openid email profile"
