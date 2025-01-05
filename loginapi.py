@@ -6,7 +6,7 @@ app = FastAPI()
 
 # Mock user data (replace with a proper database in real-world scenarios)
 users = {
-    "vivek.kumards01@gmail.com": "8483526263",
+    "gdgfjgjh@gmail.com": "tdyhfjugihi",
     "user2@example.com": "securepassword",
 }
  
