@@ -10,7 +10,7 @@ import os
 from langchain_huggingface import HuggingFaceEmbeddings
 
 
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "hf_VlezWuKnzoXhKpthefjbBBpmXvolpJZFjdzxcvbnm"
 
 
 app = FastAPI()
